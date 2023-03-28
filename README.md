@@ -35,7 +35,7 @@
 
 <p align="center" dir="auto">
      <img align="center" style=" margin-left: 25%;  border: 1px solid red;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aahan341" alt="rushijoshi3798" /><br></br>
-     <img align="center" style="max-width: 35%; margin-left: 40%;  border: 1px solid red;" src="https://github-readme-stats.vercel.app/api?username=Aahan3418&show_icons=true&locale=en" alt="Aahan341" /><br></br>
+     <img align="center" style="max-width: 35%; margin-left: 40%;  border: 1px solid red;" src="https://github-readme-stats.vercel.app/api?username=Aahan341&show_icons=true&locale=en" alt="Aahan341" /><br></br>
      <img align="center" style="max-width: 100%; margin-left: 45%;  border: 1px solid red;" src="https://github-readme-streak-stats.herokuapp.com?user=Aahan341" alt="Aahan341" /></p>
      
 <p align="center" dir="auto">
